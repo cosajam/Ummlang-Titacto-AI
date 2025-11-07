@@ -1,7 +1,7 @@
 # Ummlang-Titacto-AI
 엄랭으로 틱택토 AI는 아니고 틱택토 사이버 노가다 꾼을 만들어 보았습니다.
 
-###사용법
+### 사용법
 main.umm의 121번 라인에 case.umm 전체 내용을 삽입하고 
 https://www.ryugod.com/pages/ide/umm 에서 실행시키세요
 초반 코드의
