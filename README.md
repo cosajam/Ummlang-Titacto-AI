@@ -21,9 +21,12 @@ https://www.ryugod.com/pages/ide/umm 에서 실행시키세요
 #### **가장쉬운 클라우드 컴퓨팅**
 ### **https://siliod.com**
 
+#
+
 #### **코사잼 유튜브 채널**
 ### **https://www.youtube.com/@%EC%BD%94%EC%82%AC%EC%A8%88**
 
+#
 
 #### **코사잼 유튜브 '엄랭으로 틱택토 AI 만들기'**
 ### **https://www.youtube.com/watch?v=qkXLxzIR4vA**
