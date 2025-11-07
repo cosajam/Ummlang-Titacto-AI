@@ -3,7 +3,7 @@
 
 ###사용법
 main.umm의 121번 라인에 case.umm 전체 내용을 삽입하고 
-[https://www.ryugod.com/pages/ide/umm]에서 실행시키세요
+https://www.ryugod.com/pages/ide/umm에서 실행시키세요
 초반 코드의
 
 엄
